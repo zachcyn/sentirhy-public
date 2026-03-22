@@ -1,5 +1,7 @@
 # Sentirhy
-
+<p align="center">
+  <img src="./assets/logo.png" alt="Sentirhy logo" width="200" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Access-Project%20Showcase-1abc9c?style=for-the-badge" alt="Project Showcase" />
   <img src="https://img.shields.io/badge/Frontend-React-61dafb?style=for-the-badge&logo=react&logoColor=20232a" alt="React" />
@@ -206,9 +208,11 @@ This repository can include:
 - Architecture diagrams
 - Testing snapshots or demo walkthroughs
 
-> Add screenshots to an `/assets` folder and reference them here for a stronger portfolio presentation.
-
 ---
+
+## Documentation
+
+- [Project Dissertation (PDF)](./docs/Sentirhy-Dissertation-Yie-Nian-Chu.pdf)
 
 ## Repository Purpose
 
